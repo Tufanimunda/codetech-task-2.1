@@ -1,5 +1,15 @@
 # codetech_task_2.1
+Name:SOHAM DHUMAL
 
+Company:CODETECH IT SOLLUTION
+
+ID:CT08EGB
+
+Domain:Python Programming
+
+Duration:Dec17 to Jan 17
+
+Mentor:Neela Santosh Kumar
 Weather Data Analysis and Visualization
 This Python script fetches weather data for a given city using the OpenWeatherMap API, processes the data, and visualizes temperature, humidity, and weather conditions using line and count plots.
 
